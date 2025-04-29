@@ -1,0 +1,27 @@
+blink; 1 device added ! ->  short:1D49
+ 
+from: 1D49	 Range: 2.79 m	 RX power: -90.76 dBm
+
+from: 1D49	 Range: 2.83 m	 RX power: -91.35 dBm
+
+from: 1D49	 Range: 2.79 m	 RX power: -92.13 dBm
+
+from: 1D49	 Range: 2.85 m	 RX power: -89.92 dBm
+
+from: 1D49	 Range: 2.82 m	 RX power: -93.09 dBm
+
+from: 1D49	 Range: 2.84 m	 RX power: -93.50 dBm
+
+from: 1D49	 Range: 2.82 m	 RX power: -90.63 dBm
+
+from: 1D49	 Range: 2.86 m	 RX power: -90.32 dBm
+
+from: 1D49	 Range: 2.81 m	 RX power: -91.06 dBm
+
+from: 1D49	 Range: 2.82 m	 RX power: -90.46 dBm
+
+from: 1D49	 Range: 2.84 m	 RX power: -90.84 dBm
+
+from: 1D49	 Range: 2.86 m	 RX power: -90.66 dBm
+
+from: 1D49	 Range: 2.83 m	 RX power: -90.75 dBm
